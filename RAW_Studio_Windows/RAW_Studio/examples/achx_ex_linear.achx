@@ -1,0 +1,7 @@
+# RAW Studio — профіль АЧХ (частота_Гц дБ)
+# interpolation: spline
+# extrapolation: linear
+# fs: 12e9
+1e+08 0.0000
+3e+09 -6.0000
+6e+09 -12.0000
